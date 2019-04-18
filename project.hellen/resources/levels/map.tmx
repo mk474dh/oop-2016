@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="50" height="35" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="tileset09" tilewidth="16" tileheight="16">
+  <image source="D:/project.hellen/resources/levels/tilesets/tileset09.png" trans="0d000d" width="320" height="400"/>
+ </tileset>
+ <layer name="background" width="50" height="35">
+  <data encoding="base64" compression="zlib">
+   eJztmN0NgCAMhG8UE4ZwF5/coQs4iqM4iqNIYmJICFhjw4/ew4UHytEvAQoIsDlgVmg3ijGXnO02AbiT08WovKzlHsxNjv44aokcyRiVFznIQY5+Ofz9YB2BwceuhcVztyH9kePG57UHOT7HsYRvq6AvenM1zqHKIbfPydEWh5Sv36znDeRLjr44NHtJMj6i/5OMlBob5KjxqV7PjeYnBznMRQ47jq+sKysOozveUGnsVdsOfnG9yg==
+  </data>
+ </layer>
+ <layer name="walls" width="50" height="35">
+  <data encoding="base64" compression="zlib">
+   eJztlkEOgCAMBPH//+Qdnkg8AK2wZUmzk3CRsjhijfUppSYZDWvOwlMTgTzGeQzQHiyyeli1iJoIeh69s2jXPXkMMp/HrBZRE4E85nns/5JdDxby4LP6XlmZp5HHPPM03m/XH99bPLzrVuZOII9+DnvserCRx11k89jto8ieRfe59TwYa78Z8sDcSxYPxN6oHpEHZm+Uyy39kWG8y8NQow==
+  </data>
+ </layer>
+ <objectgroup name="objects" width="50" height="35">
+  <object name="door1" x="608" y="415" width="32" height="16"/>
+  <object name="aliens1" x="304" y="466" width="32" height="32"/>
+  <object name="ripley" x="611" y="479" width="32" height="32"/>
+ </objectgroup>
+</map>
